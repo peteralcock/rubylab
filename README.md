@@ -1,1 +1,1 @@
-# rubyonrails_testing_server
+# Headless Integration Testing
